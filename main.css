@@ -1,0 +1,25 @@
+body
+{
+    max-width: 500px;
+    margin: auto;
+}
+.audioBox
+{
+    width: 100%;
+    border: 1px solid rgb(236, 117, 135);
+    border-radius: 10px;
+    margin: 10px;
+}
+.audioBox-title
+{
+    background-color: rgb(236, 117, 135);
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.audioBox-media
+{
+    margin: 10px;
+    text-align: center;
+}
