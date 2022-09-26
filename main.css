@@ -2,6 +2,7 @@ body
 {
     max-width: 80%;
     margin: auto;
+    text-align: center;
 }
 .pageTitle
 {
@@ -13,7 +14,7 @@ body
     width: 100%;
     border: 1px solid rgb(236, 117, 135);
     border-radius: 10px;
-    margin: 40px;
+    margin: 40px 0px 40px 0px;
 }
 .audioBox-title
 {
