@@ -12,6 +12,7 @@ body
 .audioBox
 {
     width: 700px;
+    height: 117px;
     border: 1px solid rgb(236, 117, 135);
     border-radius: 10px;
     margin: auto auto 40px auto;
