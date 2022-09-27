@@ -1,17 +1,17 @@
 body
 {
-    max-width: 80%;
+    /*max-width: 80%;*/
     margin: auto;
     text-align: center;
 }
 .pageTitle
 {
-    font-size: 50px;
+    font-size: 40px;
     padding: 30px;
 }
 .audioBox
 {
-    width: 700px;
+    width: 80%;
     border: 1px solid rgb(236, 117, 135);
     border-radius: 10px;
     margin: auto auto 40px auto;
